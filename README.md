@@ -31,7 +31,7 @@ The application uses the [Translater API](https://rapidapi.com/dickyagustin/api/
 
 ## Deployment
 
-The project is deployed and can be accessed [here](). For the project to run smoothly, please follow the installation steps below to set it up locally.
+The project is deployed and can be accessed [here](https://translator-git-main-quadriceps-projects.vercel.app/). For the project to run smoothly, please follow the installation steps below to set it up locally.
 
 ## Installation
 
